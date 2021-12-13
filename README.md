@@ -1,5 +1,5 @@
 ### Hi there, I am Hunterj Lin. 👋
-- 🌱 I’m a Master student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
+- 🌱 I’m current a Master student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
 - ❤️ I’m currently working on Computer Vision, my research interests are Weakly-Supervised Object Detection and Semi-Supervised Object Detection...
 <!--
 **HunterJ-Lin/HunterJ-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

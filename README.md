@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HunterJ-Lin&repo=ActiveTeacher)](https://github.com/HunterJ-Lin/ActiveTeacher)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HunterJ-Lin&layout=compact)](https://github.com/HunterJ-Lin/HunterJ-Lin)
 ![Hunterj Lin's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=HunterJ-Lin&show_icons=true&theme=cobalt)

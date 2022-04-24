@@ -1,5 +1,5 @@
-### Hi there, I am Hunterj Lin. 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HunterJ-Lin&show_icons=true&theme=cobalt&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+## Hi there, I am Hunterj Lin. 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HunterJ-Lin&show_icons=true&theme=cobalt&hide_title=true" />
 
 - 🌱 I’m current a Master student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
 - ❤️ I’m currently working on Computer Vision, my research interests are Weakly-Supervised Object Detection and Semi-Supervised Object Detection...

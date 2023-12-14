@@ -38,6 +38,13 @@ Here are some ideas to get you started:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HunterJ-Lin/ActiveTeacher?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/HunterJ-Lin/WSOVOD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HunterJ-Lin&repo=WSOVOD" /></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HunterJ-Lin/WSOVOD?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HunterJ-Lin/WSOVOD?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HunterJ-Lin/WSOVOD?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HunterJ-Lin/WSOVOD?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/shenyunhang/HUWSOD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shenyunhang&repo=HUWSOD" /></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/shenyunhang/HUWSOD?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/shenyunhang/HUWSOD?style=flat-square&labelColor=343b41"/></td>

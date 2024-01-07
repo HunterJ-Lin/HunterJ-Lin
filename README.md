@@ -1,7 +1,7 @@
 ## Hi there, I am Hunterj Lin. 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HunterJ-Lin&show_icons=true&bg_color=ffffff&text_color=718096&theme=cobalt&hide_title=true" />
 
-- 🌱 I’m currently a Ph.D student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Artificial Intelligence Department, School of Informatics, Xiamen University, China.
+- 🌱 I’m currently a Ph.D student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Department of Computer Science and Technology, School of Informatics, Xiamen University, China.
 - ❤️ I’m currently working on Computer Vision, my research interests are Weakly-Supervised Object Detection and Semi-Supervised Object Detection...
 <!--
 **HunterJ-Lin/HunterJ-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

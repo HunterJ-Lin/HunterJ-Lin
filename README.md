@@ -65,6 +65,20 @@ Here are some ideas to get you started:
       <td><img alt="Issues" src="https://img.shields.io/github/issues/nhw649/SCSD?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/nhw649/SCSD?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Quyans/GOI-Hyperplane"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quyans&repo=GOI-Hyperplane" /></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Quyans/GOI-Hyperplane?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Quyans/GOI-Hyperplane?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Quyans/GOI-Hyperplane?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Quyans/GOI-Hyperplane?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/swagger-coder/ASDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=swagger-coder&repo=ASDA" /></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/swagger-coder/ASDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/swagger-coder/ASDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/swagger-coder/ASDA?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/swagger-coder/ASDA?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 

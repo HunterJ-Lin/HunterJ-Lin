@@ -45,6 +45,20 @@ Here are some ideas to get you started:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HunterJ-Lin/WSOVOD?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/HunterJ-Lin/PL-DC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HunterJ-Lin&repo=PL-DC" /></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HunterJ-Lin/PL-DC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HunterJ-Lin/PL-DC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HunterJ-Lin/PL-DC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HunterJ-Lin/PL-DC?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/HunterJ-Lin/CogOVIS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HunterJ-Lin&repo=CogOVIS" /></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/HunterJ-Lin/CogOVIS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/HunterJ-Lin/CogOVIS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/HunterJ-Lin/CogOVIS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HunterJ-Lin/CogOVIS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/nhw649/EOV-Seg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nhw649&repo=EOV-Seg" /></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nhw649/EOV-Seg?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/nhw649/EOV-Seg?style=flat-square&labelColor=343b41"/></td>
